@@ -37,9 +37,7 @@ const fullName = (firstName, lastName) => {
     return Math.pow(base, exponent);
   };
   
-  // ==================================================================================================================================================
-  
-  // Extra Practice
+// ===================================================================Extra Practice====================================================================  
   
   // Q1
   // Write a function floor that accepts one number argument, number and returns the number as an integer.
