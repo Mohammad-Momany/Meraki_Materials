@@ -33,7 +33,7 @@ const deposit = (amount) => {
   return "Please enter a valid number";
 };
 
-// Extra Practice
+// ===================================================================Extra Practice====================================================================
 
 // Q1
 // write a function `startsWith` that accept two string arguments `string`, `character` and returns true if the string starts with that character
